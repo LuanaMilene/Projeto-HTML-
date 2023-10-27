@@ -3,3 +3,26 @@ html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockq
 /*Zerando valores dos elementos */
 
 
+h1{
+font-weight: bold;
+font-size: 20px; /*Tamanho da fonte H1 */
+margin-bottom: 15px; /*Margin entre Título H1, e o início do Paragrafo. */
+}
+img{margin-top: 10px; margin-bottom: 10px;}
+.legenda{
+  font-style: italic;
+  font-size: 12px;
+}
+
+/*Formatação do Paragrafo*/
+p{margin-bottom: 10px;}
+pre{
+   background: #FEFFAF;
+   color: #000;
+   line-height: 18px;
+   margin-bottom: 18px;
+   padding: 1.5em;
+   margin-bottom: 20px;
+   margin-top: 20px;
+   border: #000 1px dotted;
+}
