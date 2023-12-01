@@ -19,7 +19,7 @@ font-size:12px;
 /*Formatação do Paragrafo, do exemplo da Linguagem jQuery.*/
 p{margin-bottom:10px;}
 pre {
-	background: rgb(170, 165, 165);
+	background: rgb(110, 109, 109);
 	color: #000;
 	line-height: 18px;
 	margin-bottom: 18px;
@@ -103,7 +103,7 @@ float:left;
     
 #destaque_bottom_direita{
 width:170px;
-background-color:#a7aaaf;
+background-color:rgb(110, 109, 109);
 padding:10px;
 float:left;
 margin-left:20px;
